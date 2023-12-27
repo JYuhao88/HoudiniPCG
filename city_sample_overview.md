@@ -25,11 +25,10 @@
 
 #### Hodini PIPLINE 使用方式
 
-- PDG 模式：
-    点击：
+- 非 PDG 模式：
+    点击 "processor"：
     ![city-processor-node-without-pdg](./pic/city_sample/11-city-processor-node-without-pdg.webp){width=50%}
-- 非 PDG 模式
-    按顺序执行模块：
+- PDG 模式
     ![1-city-processor-properties-with-pbc-export-pbc](./pic/city_sample/11-city-processor-properties-with-pbc-export-pbc.webp){width=50%}
 
 
